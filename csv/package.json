@@ -1,0 +1,24 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvConverter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vietnguyen/assignment3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vietnguyen/assignment3/issues"
+  },
+  "homepage": "https://github.com/vietnguyen/assignment3#readme",
+  "dependencies": {
+    "csv": "^1.1.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^1.6.3"
+  }
+}
